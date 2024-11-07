@@ -6,27 +6,27 @@
     "background_color": "#FF6600",
     "theme_color": "#FF6600",
     "description": "BALCI BETON RESMİ WEB SİTESİ",
-    "orientation": "portrait-primary",
+    "orientation": "any",
     "prefer_related_applications": false,
     "icons": [
         {
-            "src": "assets/images/balci/balci-logo-transparent-logo.png",
+            "src": "icons/balci-logo-transparent-logo.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "assets/images/balci/balci-logo-transparent-logo.png",
+            "src": "icons/balci-logo-transparent-logo.png",
             "sizes": "512x512",
             "type": "image/png"
         },
         {
-            "src": "assets/images/balci/balci-logo-transparent-logo.png",
+            "src": "icons/balci-logo-transparent-logo.png",
             "sizes": "192x192",
             "type": "image/png",
             "purpose": "maskable"
         },
         {
-            "src": "assets/images/balci/balci-logo-transparent-logo.png",
+            "src": "icons/balci-logo-transparent-logo.png",
             "sizes": "512x512",
             "type": "image/png",
             "purpose": "maskable"
